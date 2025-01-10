@@ -1,0 +1,1 @@
+Attemping to build a form that submits to a third-party application. Experimenting with Cookies and Tokens to simulate coming from within the same suite of software and not from a different web server.
